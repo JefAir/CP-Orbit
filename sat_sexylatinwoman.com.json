@@ -114,17 +114,7 @@
                    "key":  "AIzaSyD9a3N7HbHKa0Uz3W7l3rMgnqubHq0Kj-c",
                    "clientid":  ""
                },
-    "facebook":  {
-                     "base":  {
-                                  "version":  "v2.0",
-                                  "appId":  757668721023359
-                              },
-                     "permissions":  "email,user_birthday,user_location,user_likes,user_about_me",
-                     "photos":  {
-                                    "width":  845,
-                                    "is_silhouette":  false
-                                }
-                 },
+    "facebook": null,
     "GTM-KEY":  "GTM-5J32BB",
 	"PARTNER-GTM-KEY": "GTM-M987H9",
 	"default-afid": "17930",
