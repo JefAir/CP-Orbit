@@ -1,0 +1,183 @@
+{
+  "location": "lpnew.amolatina.com/usa/2",
+  "api": "www.amolatina.com",
+  "target": "//new.amolatina.com/people/",
+    "theme":  "bordo",
+    "title":  "Amolatina",
+    "keywords":  "latina women, latin dating sites, latin women, mexican women, colombian women, brazil women, brazilian women, brazil woman, brazilian woman",
+    "description":  "USA",
+	"favicon": "https://new.amolatina.com/i/latin/favicon.ico?",
+      "google-play-banner-id": "com.amolatina",
+    "blocks":  [
+                   {
+                       "name":  "registration",
+                       "settings":  {
+                                        "type":  "simple",
+  										"color-scheme":  "light",
+  										"logo": "https://apu2.amolatina.com/users/10086845831/photos/7b363797bea9d974",
+                      "background-color":  "#c0cecd",
+                      "background-image":  "https://api8.amolatina.com/users/10086845831/photos/0425fc10ed390f06",
+                      "slogan":  "Meet Singles in Latin America",
+                      "button-text":  "Take a Chance"
+                     }
+                   },
+    {
+      "name": "motivation",
+      "settings": {
+        "users": [
+          {
+            "photo": "https://api6.amolatina.com/users/10086845831/photos/0fddb5839b183552",
+            "name": "Paola",
+            "age": "30",
+            "location": "Medellín, Colombia",
+            "button-text": "Chat with  Paola"
+          },
+          {
+            "photo": "https://api5.amolatina.com/users/10086845831/photos/ad5935563b0fe0f0",
+            "name": "Bryce",
+            "age": "32",
+            "location": "New York, USA",
+           "button-text": "Chat with Bryce"
+          },
+          {
+            "photo": "https://api9.amolatina.com/users/10086845831/photos/5b1ef766c9748d66",
+            "name": "Any",
+            "age": "24",
+            "location": "Medellín, Colombia",
+           "button-text": "Chat with Any"
+          },
+          {
+            "photo": "https://api6.amolatina.com/users/10086845831/photos/b8f173775c3a107e",
+            "name": "Natalia",
+            "age": "24",
+            "location": "Medellín, Colombia",
+           "button-text": "Chat with Natalia"
+          },
+          {
+            "photo": "https://api6.amolatina.com/users/10086845831/photos/ec774f2ee761c359",
+            "name": "Melissa",
+            "age": "26",
+            "location": "Medellín, Colombia",
+           "button-text": "Chat with Melissa"
+          },
+          {
+            "photo": "https://api8.amolatina.com/users/10086845831/photos/b0067d9aca42d6e3",
+            "name": "Josh",
+            "age": "45",
+            "location": "Boston, USA",
+           "button-text": "Chat with Josh"
+          },
+          {
+            "photo": "https://api9.amolatina.com/users/10086845831/photos/8f3c9591a64e59f8",
+            "name": "Michael",
+            "age": "42",
+            "location": "Bogotá, Colombia",
+           "button-text": "Chat with Michael"
+          },
+          {
+            "photo": "https://api2.amolatina.com/users/10086845831/photos/196d1a776404e2ed",
+            "name": "Camila",
+            "age": "24",
+            "location": "Medellín, Colombia",
+           "button-text": "Chat with Camila"
+          }
+
+        ],
+        "benefits": [
+          {
+            "image": "https://apu8.amolatina.com/users/10086845831/photos/c65278e8f0b98155",
+            "header": "Protection",
+            "text": "You safety is provided by leading anti-scam system in the industry."
+          },
+          {
+            "image": "https://apu7.amolatina.com/users/10086845831/photos/fa663117d672bc8e",
+            "header": "Verification",
+            "text": "All members are personally confirmed by our staff to prove they are real."
+          },
+          {
+            "image": "https://apu7.amolatina.com/users/10086845831/photos/e9688823143723fd",
+            "header": "Attention",
+            "text": "Receive lots of attention from attractive members worldwide."
+          },
+          {
+            "image": "https://apu0.amolatina.com/users/10086845831/photos/544aa90f13e26c23",
+            "header": "Communication",
+            "text": "Chat, send letters, call, share your photos and make presents."
+          }
+        ]
+      }
+    },
+				   
+
+                   {
+                       "name":  "footer",
+                       "settings":  {
+
+                                        "menu":  [
+
+                                                     {
+                                                         "text":  "Terms & conditions",
+                                                         "link":  "/terms-and-conditions/"
+                                                     },
+                                                     {
+                                                         "text":  "Privacy policy",
+                                                         "link":  "/policy/"
+                                                     }
+
+                                                 ],
+                                        "copyright":  {
+                                                          "text":  "Copyright Amolatina 2017. All Rights Reserved",
+                                                          "width":  "400"
+                                                      }
+                                    }
+                   }
+               ],
+    "google":  {
+                   "key":  "AIzaSyD9a3N7HbHKa0Uz3W7l3rMgnqubHq0Kj-c",
+                   "clientid":  ""
+               },
+    "facebook":  {
+                     "base":  {
+                                  "version":  "v2.0",
+                                  "appId":  757668721023359
+                              },
+                     "permissions":  "email,user_birthday,user_location,user_likes,user_about_me",
+                     "photos":  {
+                                    "width":  845,
+                                    "is_silhouette":  false
+                                }
+                 },
+    "GTM-KEY":  "GTM-5J32BB",
+	"PARTNER-GTM-KEY": "GTM-M987H9",
+	"default-afid": "270340417",
+    "analytics":  {
+                      "app:screen":  [
+                                         "gtm://gtminit/"
+                                     ],
+                      "command.analytics.registration.send":  [
+                                                                  "api://registration",
+                                                                  "gtm://dataLayerPush/registered/_data_/event/event_registered_changeDL"
+                                                              ],
+                      "authorized":  [
+                                         "gtm://dataLayerPush/authorized_variable/_data_/event/event_authorized_changeDL"
+                                     ],
+                      "event.user.logout":  [
+                                                "gtm://dataLayerPush/unauthorized_variable/_data_/event/event_unauthorized_changeDL/userid_value/{id}"
+                                            ],
+                      "analytics://event.overlay.purchase.opened":  [
+                                                                        "gtm://dataLayerPush/page_changed/\\people\\{id}\\purchase\\/event/event_page_changed_changeDL"
+                                                                    ],
+                      "search://event.search.criteria.changed":  [
+                                                                     "gtm://dataLayerPush/change_search/_data_/event/event_change_search_changeDL"
+                                                                 ],
+                      "message:message":  [
+                                              "gtm://dataLayerPush/communication/_data_/event/event_communication_changeDL"
+                                          ],
+                      "analytics://event.purchase.completed":  [
+                                                                   "gtm://dataLayerPush/ecommerce/_data_/event/event_transaction_changeDL"
+                                                               ],
+                      "command.analytics.registration.update":  [
+                                                                    "gtm://dataLayerPush/registration_funnel/_data_/event/event_registration_funnel_changeDL"
+                                                                ]
+                  }
+}
