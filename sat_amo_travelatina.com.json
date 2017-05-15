@@ -1,0 +1,246 @@
+{
+  "location": "www.travelatina.com",
+  "api": "www.amolatina.com",
+  "target": "//new.amolatina.com/people/",
+    "theme":  "bordo",
+    "title":  "TraveLatina",
+    "keywords":  "latina women, latin dating sites, latin women, mexican women, colombian women, brazil women, brazilian women, brazil woman, brazilian woman",
+    "description":  "TraveLatina",
+	"favicon": "https://new.amolatina.com/i/latin/favicon.ico?",
+    "google-play-banner-id": "com.amolatina",
+    "blocks":  [
+                   {
+                     "name":  "registration",
+                     "settings":  {
+                    "type":  "search",
+										"color-scheme":  "light",
+										"logo": "https://api7.amolatina.com/users/10086845831/photos/e27cf6dee89a2106",
+                    "background-color":  "#f9fafe",
+                    "background-image":  "https://api4.amolatina.com/users/10086845831/photos/7de29e2bf72293b2",
+                    "title": "Lift Up Your Vacations",
+                    "slogan":  "Discover travel companions from across Latin America and the world. Share your journey and explore together!",
+                    "button-text":  "Meet latin travel mates"
+                                    }
+                   },
+    {
+      "name": "motivation",
+      "settings": {
+        "users": [
+          {
+            "photo": "https://api2.amolatina.com/users/10086845831/photos/474b6978b9841440",
+            "name": "Venezuela",
+            "age": "",
+            "location": "",
+            "button-text": "Look"
+          },
+          {
+            "photo": "https://api6.amolatina.com/users/10086845831/photos/1f273ff0f5223284",
+            "name": "Brazil",
+            "age": "",
+            "location": "",
+           "button-text": "Look"
+          },
+          {
+            "photo": "https://api9.amolatina.com/users/10086845831/photos/aa08a025687ceaf3",
+            "name": "Bolivia",
+            "age": "",
+            "location": "",
+           "button-text": "Look"
+          },
+          {
+            "photo": "https://api3.amolatina.com/users/10086845831/photos/4d6ae924f96ccd64",
+            "name": "Haiti",
+            "age": "",
+            "location": "",
+           "button-text": "Look"
+          },
+          {
+            "photo": "https://api7.amolatina.com/users/10086845831/photos/b024e841aa814669",
+            "name": "Guatemala",
+            "age": "",
+            "location": "",
+           "button-text": "Look"
+          },
+          {
+            "photo": "https://api8.amolatina.com/users/10086845831/photos/e378185daddc0ec3",
+            "name": "Costa Rica",
+            "age": "",
+            "location": "",
+           "button-text": "Look"
+          },
+          {
+            "photo": "https://api6.amolatina.com/users/10086845831/photos/9ee1d954c611f848",
+            "name": "Uruguay",
+            "age": "",
+            "location": "",
+           "button-text": "Look"
+          },
+          {
+            "photo": "https://api1.amolatina.com/users/10086845831/photos/c7d47b9b620d3c04",
+            "name": "Colombia",
+            "age": "",
+            "location": "",
+            "button-text": "Look"
+          }
+
+        ],
+        "benefits": [
+          {
+            "image": "https://apu8.amolatina.com/users/10086845831/photos/c65278e8f0b98155",
+            "header": "Protection",
+            "text": "You safety is provided by leading anti-scam system in the industry."
+          },
+          {
+            "image": "https://apu7.amolatina.com/users/10086845831/photos/fa663117d672bc8e",
+            "header": "Verification",
+            "text": "All members are personally confirmed by our staff to prove they are real."
+          },
+          {
+            "image": "https://apu7.amolatina.com/users/10086845831/photos/e9688823143723fd",
+            "header": "Attention",
+            "text": "Receive lots of attention from attractive members worldwide."
+          },
+          {
+            "image": "https://apu0.amolatina.com/users/10086845831/photos/544aa90f13e26c23",
+            "header": "Communication",
+            "text": "Chat, send letters, call, share your photos and make presents."
+          }
+        ]
+      }
+    },
+				   
+				   
+		    {
+      "name": "comments",
+      "settings": {
+        "comments": [
+          {
+            "name": "Max C, Chicago, USA",
+            "photo": "https://apu8.amolatina.com/users/10086845831/photos/26ed4f13eed63efe",
+            "text": "TraveLatina has really made my trips to Colombia more interesting. It’s great to meet plenty of new people from the area I’m traveling to. I found lots of interesting women as soon as I joined. The choice is cool and it’s easy to get in touch. "
+          },
+          {
+            "name": "Lorena S, Bogota, Colombia",
+            "photo": "https://api0.amolatina.com/users/10086845831/photos/44dc81566f1c9a20",
+            "text": "It was nice to find the website where I can meet visitors to my city and show them round. I meet with interesting people and show off the good things about my country. Using LatinTravelMates has been an easy experience that I would recommend. Just try it :)"
+          },
+          {
+            "name": "Paul N, Los Angeles, USA",
+            "photo": "https://apu5.amolatina.com/users/10086845831/photos/fde8c83754b05349",
+            "text": "It has proven to be an excellent resource to meet up with the locals when I travel to Rio and Sau Paulo on business and for vacations. Signing up was a good decision and I’ve made lots of friends using LatinTravelMates. If you’re looking for real people on a site that’s easy to use then I suggest you give it a go. "
+          },
+          {
+            "name": "Maria M, Madrid, Spain",
+            "photo": "https://api1.amolatina.com/users/10086845831/photos/a5eb8531cbf664ba",
+            "text": "It’s my favourite travel network and helps me meet other travellers both in Spain and when I visit Peru. I can share all my advice with others about food, culture, and sights. I always look forward to arranging a meeting on here. Everyone is very friendly!"
+          },
+		      {
+            "name": "Herman K, Munich, Germany",
+            "photo": "https://apu0.amolatina.com/users/10086845831/photos/e4d06fede5d7786f",
+            "text": "TraveLatina.com has surprised me – I’ve always wondered about using a travel site to find someone to go on vacation with. The women on here have been wonderful and my trips have become more exciting and full of interesting things to do. I met my first travel companion a month ago in Venezuela. It went very well!"
+          }
+        ]
+      }
+    },
+
+                   {
+                       "name":  "static",
+                       "settings":  {
+                                        "upper-image":  "https://api6.amolatina.com/users/10086845831/photos/a47eb1f9c062d249",
+                                        "background":  "url('https://api7.amolatina.com/users/10086845831/photos/d8fc7abd2da863e5') center -2px repeat",
+                                        "color":  "#ffffff",
+                                        "content":  "<p>Joining the site is Secure & Easy</p>",
+                                        "button":  {
+                                                       "url":  "#application-placeholder",
+                                                       "label":  "Create an account"
+                                                   }
+                                    }
+                   },
+
+        {
+            "name": "footer",
+            "settings": {
+                "social": {
+                    "facebook": "https://www.facebook.com/AmoLatina/",
+                    "twitter": "https://twitter.com/AmoLatina",
+                    "google": "https://plus.google.com/+amolatina"
+                },
+                "menu": [
+                    {
+                        "text": "About",
+                        "link": "/about/"
+                    },
+                    {
+                        "text": "Terms & conditions",
+                        "link": "/terms-and-conditions/"
+                    },
+                    {
+                        "text": "Privacy policy",
+                        "link": "/policy/"
+                    },
+                    {
+                        "text": "Dating Securely",
+                        "link": "/safety/"
+                    },
+                    {
+                        "text": "Help Center",
+                        "link": "/help-center/",
+                        "feature": "desk-com-client-hc"
+                    },
+                    {
+                        "text": "FAQ",
+                        "link": "/faqs/",
+                        "feature": "!desk-com-client-hc"
+                    },
+                    {
+                        "text": "Contact us",
+                        "link": "/contacts/",
+                        "feature": "!desk-com-client-hc"
+                    }
+                ],
+                "copyright": {
+                    "text": "Copyright travelatina.com  2017. All Rights Reserved",
+                    "width": "400"
+                }
+            }
+        }
+               ],
+    "google":  {
+                   "key":  "AIzaSyD9a3N7HbHKa0Uz3W7l3rMgnqubHq0Kj-c",
+                   "clientid":  ""
+               },
+    "facebook": null,
+    "GTM-KEY":  "GTM-5J32BB",
+	"PARTNER-GTM-KEY": "GTM-M987H9",
+	"default-afid": "275570417",
+    "analytics":  {
+                      "app:screen":  [
+                                         "gtm://gtminit/"
+                                     ],
+                      "command.analytics.registration.send":  [
+                                                                  "api://registration",
+                                                                  "gtm://dataLayerPush/registered/_data_/event/event_registered_changeDL"
+                                                              ],
+                      "authorized":  [
+                                         "gtm://dataLayerPush/authorized_variable/_data_/event/event_authorized_changeDL"
+                                     ],
+                      "event.user.logout":  [
+                                                "gtm://dataLayerPush/unauthorized_variable/_data_/event/event_unauthorized_changeDL/userid_value/{id}"
+                                            ],
+                      "analytics://event.overlay.purchase.opened":  [
+                                                                        "gtm://dataLayerPush/page_changed/\\people\\{id}\\purchase\\/event/event_page_changed_changeDL"
+                                                                    ],
+                      "search://event.search.criteria.changed":  [
+                                                                     "gtm://dataLayerPush/change_search/_data_/event/event_change_search_changeDL"
+                                                                 ],
+                      "message:message":  [
+                                              "gtm://dataLayerPush/communication/_data_/event/event_communication_changeDL"
+                                          ],
+                      "analytics://event.purchase.completed":  [
+                                                                   "gtm://dataLayerPush/ecommerce/_data_/event/event_transaction_changeDL"
+                                                               ],
+                      "command.analytics.registration.update":  [
+                                                                    "gtm://dataLayerPush/registration_funnel/_data_/event/event_registration_funnel_changeDL"
+                                                                ]
+                  }
+}
