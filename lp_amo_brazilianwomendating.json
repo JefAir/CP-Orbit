@@ -1,13 +1,14 @@
 {
-  "location": "lpnew.amolatina.com/spainwomendating",
+  "location": "lpnew.amolatina.com/brazilianwomendating",
   "api": "www.amolatina.com",
   "target": "//new.amolatina.com/people/",
     "theme":  "bordo",
-    "title":  "SpainWomenDating",
+    "title":  "BrazilianWomenDating",
     "keywords":  "latina women, latin dating sites, latin women, mexican women, colombian women, brazil women, brazilian women, brazil woman, brazilian woman",
-    "description":  "SpainWomenDating",
+    "description":  "BrazilianWomenDating",
 	"favicon": "https://new.amolatina.com/i/latin/favicon.ico?",
-    "google-play-banner-id": "com.amolatina",
+          "appstore-banner-id": null,
+  "google-play-banner-id": null, 
     "blocks":  [
                    {
                        "name":  "registration",
@@ -15,101 +16,12 @@
                                         "type":  "simple",
 										"color-scheme":  "light",
 										"logo": "https://apu2.amolatina.com/users/10086845831/photos/7b363797bea9d974",
-                                        "background-color":  "#eaf7fd",
-                                        "background-image":  "https://apu5.amolatina.com/users/10086845831/photos/25b4c6c594885cdd",
-                                        "slogan":  "Encuentra tu pareja ideal",
+                                        "background-color":  "#fde5d8",
+                                        "background-image":  "https://apu3.amolatina.com/users/10086845831/photos/768dc2db02dbede1",
+                                        "slogan":  "Meet Brazilian Women",
                                         "button-text":  "Take a Chance"
                                     }
                    },
-    {
-      "name": "motivation",
-      "settings": {
-        "users": [
-          {
-            "photo": "https://apu0.amolatina.com/users/10086845831/photos/adff67b3dce175d3",
-            "name": "Karina",
-            "age": "22",
-            "location": "Girardot, Colombia",
-            "button-text": "Chat with  Karina"
-          },
-          {
-            "photo": "https://apu4.amolatina.com/users/10086845831/photos/121160bdb6855b94",
-            "name": "Glenda",
-            "age": "23",
-            "location": "Manta , Ecuador",
-           "button-text": "Chat with Glenda"
-          },
-          {
-            "photo": "https://apu1.amolatina.com/users/10086845831/photos/a15b013c27b1ac36",
-            "name": "Alexandra",
-            "age": "32",
-            "location": "Cancun, Mexico",
-           "button-text": "Chat with Alexandra"
-          },
-          {
-            "photo": "https://apu4.amolatina.com/users/10086845831/photos/a391d83a93f4e5cd",
-            "name": "Julieta",
-            "age": "23",
-            "location": "Buenos Aires, Argentina",
-           "button-text": "Chat with Julieta"
-          },
-          {
-            "photo": "https://apu6.amolatina.com/users/10086845831/photos/c49edc436a015a93",
-            "name": "Gysell",
-            "age": "25",
-            "location": "Cali, Colombia",
-           "button-text": "Chat with Gysell"
-          },
-          {
-            "photo": "https://apu5.amolatina.com/users/10086845831/photos/0b93233d01abb3fa",
-            "name": "Tetiana",
-            "age": "19",
-            "location": "Lisboa, Portugal",
-           "button-text": "Chat with Tetiana"
-          },
-          {
-            "photo": "https://apu9.amolatina.com/users/10086845831/photos/15ae971ccf79eaa0",
-            "name": "Jenny",
-            "age": "29",
-            "location": "Ibague, Colombia",
-           "button-text": "Chat with Jenny"
-          },
-          {
-            "photo": "https://apu8.amolatina.com/users/10086845831/photos/457f36ac4ceec7b2",
-            "name": "Gladyele",
-            "age": "30",
-            "location": "Cancun, Mexico",
-           "button-text": "Chat with Gladyele"
-          }
-
-        ],
-        "benefits": [
-          {
-            "image": "https://apu8.amolatina.com/users/10086845831/photos/c65278e8f0b98155",
-            "header": "Protección",
-            "text": "Tu seguridad está garantizada por un sistema seguridad excepcional en la industria"
-          },
-          {
-            "image": "https://apu7.amolatina.com/users/10086845831/photos/fa663117d672bc8e",
-            "header": "Verificación",
-            "text": "Todos los miembros son comprobados por nuestro personal para confirmar que son reales."
-          },
-          {
-            "image": "https://apu7.amolatina.com/users/10086845831/photos/e9688823143723fd",
-            "header": "Atención",
-            "text": "Recibe gran atención de atractivos miembros de todo el mundo."
-          },
-          {
-            "image": "https://apu0.amolatina.com/users/10086845831/photos/544aa90f13e26c23",
-            "header": "Comunicación",
-            "text": "Chatea, envia cartas, llama, comparte tus fotos y haz regalos."
-          }
-        ]
-      }
-    },
-				   
-
-
                    {
                        "name":  "footer",
                        "settings":  {
@@ -150,7 +62,7 @@
                  },
     "GTM-KEY":  "GTM-5J32BB",
 	"PARTNER-GTM-KEY": "GTM-M987H9",
-	"default-afid": "33084",
+	"default-afid": "33080",
     "analytics":  {
                       "app:screen":  [
                                          "gtm://gtminit/"

@@ -7,7 +7,9 @@
     "keywords":  "latina women, latin dating sites, latin women, mexican women, colombian women, brazil women, brazilian women, brazil woman, brazilian woman",
     "description":  "USA",
 	"favicon": "https://new.amolatina.com/i/latin/favicon.ico?",
-      "google-play-banner-id": "com.amolatina",
+
+          "appstore-banner-id": null,
+  "google-play-banner-id": null, 
     "blocks":  [
                    {
                        "name":  "registration",

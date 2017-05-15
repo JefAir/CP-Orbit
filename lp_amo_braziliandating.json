@@ -1,25 +1,25 @@
 {
-  "location": "lpnew.amolatina.com/latinwomena1",
+  "location": "lpnew.amolatina.com/braziliandating",
   "api": "www.amolatina.com",
   "target": "//new.amolatina.com/people/",
     "theme":  "bordo",
-    "title":  "LatinWomen",
+    "title":  "BrazilianDating",
     "keywords":  "latina women, latin dating sites, latin women, mexican women, colombian women, brazil women, brazilian women, brazil woman, brazilian woman",
-    "description":  "LatinWomen",
+    "description":  "BrazilianDating",
 	"favicon": "https://new.amolatina.com/i/latin/favicon.ico?",
-    "google-play-banner-id": "com.amolatina",
+          "appstore-banner-id": null,
+  "google-play-banner-id": null, 
     "blocks":  [
                    {
                        "name":  "registration",
                        "settings":  {
-                                        "type":  "complex",
+                                        "type":  "simple",
 										"color-scheme":  "light",
 										"logo": "https://apu2.amolatina.com/users/10086845831/photos/7b363797bea9d974",
-                                        "background-color":  "#f9fafe",
-                                        "background-image":  "https://apu9.amolatina.com/users/10086845831/photos/91405cac41a3cc8d",
-                                        "slogan":  "JOIN NOW TO MEET LATIN WOMEN",
-                                        "button-text":  "Take a Chance",
-                                        "hidden": ["gender", "name", "hometown", "birthday", "password"]
+                                        "background-color":  "#fde5d8",
+                                        "background-image":  "https://apu8.amolatina.com/users/10086845831/photos/a28af2933c7756ff",
+                                        "slogan":  "Join the secure & easy way",
+                                        "button-text":  "Take a Chance"
                                     }
                    },
     {
@@ -115,23 +115,23 @@
       "settings": {
         "comments": [
           {
-            "name": "Maria",
+            "name": "Marielly",
             "photo": "https://apu8.amolatina.com/users/10086845831/photos/26ed4f13eed63efe",
-            "text": "I’m so happy I met Daniel. We have plenty in common even though we come from different parts of the world."
+            "text": "I’m so happy I met Maria. We have plenty in common even though we come from different parts of the world."
           },
           {
-            "name": "Martin",
-            "photo": "https://apu6.amolatina.com/users/10086845831/photos/2032cc8dfc84c1c3",
+            "name": "Jenny",
+            "photo": "https://apu6.amolatina.com/users/10086845831/photos/3ea30b7754e4f7bd",
             "text": "We hit it off so well and she really took my breath away. Sofia is the one for me!"
           },
           {
-            "name": "Luisa",
+            "name": "Yury",
             "photo": "https://apu5.amolatina.com/users/10086845831/photos/fde8c83754b05349",
             "text": "This site is lots of fun. It was very easy to meet a girl and start talking."
           },
 		{
-            "name": "Karl",
-            "photo": "https://apu0.amolatina.com/users/10086845831/photos/e4d06fede5d7786f",
+            "name": "Sury",
+            "photo": "https://apu0.amolatina.com/users/10086845831/photos/2508560ba31b91f9",
             "text": "Latinas here are GORGEOUS. I feel so popular. There are lots of women that love talking to me."
           }
         ]
@@ -178,7 +178,7 @@
                  },
     "GTM-KEY":  "GTM-5J32BB",
 	"PARTNER-GTM-KEY": "GTM-M987H9",
-	"default-afid": "210500217",
+	"default-afid": "32962",
     "analytics":  {
                       "app:screen":  [
                                          "gtm://gtminit/"
