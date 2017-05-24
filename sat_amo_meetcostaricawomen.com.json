@@ -7,7 +7,8 @@
     "keywords":  "latina women, latin dating sites, latin women, mexican women, colombian women, brazil women, brazilian women, brazil woman, brazilian woman",
     "description":  "MeetCostaricaWomen",
 	"favicon": "http://27sat.itocd.net/meetcostaricawomen.com/favicon.ico",
-    "google-play-banner-id": "com.amolatina",
+        "appstore-banner-id": null,
+     "google-play-banner-id": null, 
     "blocks":  [
                    {
                        "name":  "registration",
